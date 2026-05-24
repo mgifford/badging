@@ -75,9 +75,9 @@
     "stylelint-config-standard": "33.0.0",
     "stylelint-scss": "4.6.0",
     "svg-url-loader": "8.0.0",
-    "webpack": "^5.79.0",
+    "webpack": "^5.101.3",
     "webpack-cli": "^5.0.1",
-    "webpack-dev-server": "^4.13.2"
+    "webpack-dev-server": "^5.2.1"
   },
   "engines": {
     "node": ">= 16.15.0"
